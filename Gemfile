@@ -26,5 +26,6 @@ end
 
 group :production do
   gem 'pg'
+  gem 'pry'
   gem 'rails_12factor'
 end
